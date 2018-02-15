@@ -1,1 +1,3 @@
-
+This file is a Test file for Assembler Test and research. IT tests assembler programms on diferent cpus. For example mov, sqrt or other 
+assembler operations. It also tests assembler on Windows, Linux and other systems. This system also tests the statistics like Meltdown and Spectre
+and the way a computer is addressing a data. 
